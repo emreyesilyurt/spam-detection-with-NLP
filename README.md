@@ -1,1 +1,1 @@
-![alt-text](https://randerson112358.medium.com/email-spam-detection-using-python-machine-learning-abe38c889855)
+![alt-text](https://github.com/emreyesilyurt/spam_mail_detection/blob/master/images/spam.png?raw=true)
